@@ -21,7 +21,7 @@ const HeaderSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-4">
-            I might eat you.
+            It's a pleasure to meet you. Thanks for visiting my site.
           </p>
 
           <div>
